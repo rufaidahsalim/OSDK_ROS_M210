@@ -1,0 +1,11 @@
+//This file is saved in /home/{user}/.ros directory
+//Consists of the App ID, Encryption Key. and Baudrate
+//as shown
+
+
+
+
+app_id : 1092144
+app_key : 6d27fde3be07c3a8b74be38fd582e7d06c5cc884ee95ae9669606c366f927baf
+device : /dev/ttyUSB0
+baudrate : 921600
